@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# download public files directly from site : http://www.1337upload.net
+
 # select pages :
 # lower_limit = lower_page_no. - 1 ;
 # upper_limit = upper_page_no. - 1 ;
